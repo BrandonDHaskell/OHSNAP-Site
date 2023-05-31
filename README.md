@@ -1,10 +1,10 @@
 # OHSNAP Site
 
-A website for promoting the [OHSNAP](https://www.noisebridge.net/wiki/OHSNAP) project. See the [Deployed Site](https://BrandonDHaskell.github.io/OHSNAP-Site/)w
+A website for **O**pen **H**ardware for **S**afe **N**etworks **A**nd **S**ecurity. See the [Deployed Site](https://BrandonDHaskell.github.io/OHSNAP-Site/).
 
 ## Description
 
-This project is a prototype project to establish a website for the [OHSNAP](https://www.noisebridge.net/wiki/OHSNAP) project. This will be primary source for the latest information and promotions about the project.
+This is a prototype project to establish a website for the [OHSNAP](https://www.noisebridge.net/wiki/OHSNAP) project. This will be primary source for the latest information and promotions about the project. More to come at a later date.
 
 ## Table of Contents
 
